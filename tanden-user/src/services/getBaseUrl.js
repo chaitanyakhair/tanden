@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = 'http://localhost:5000';
+export const API_URL = 'https://w2jostw27rpv3yvwsfcf5jzj2y0mvvfy.lambda-url.ap-south-1.on.aws';
 // export const API_URL = 'https://yoga-be-2.vercel.app';
 // export const API_URL = 'https://yoga-be.onrender.com';
 
