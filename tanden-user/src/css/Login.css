@@ -1,0 +1,32 @@
+.container{
+    max-width: 600px !important;
+    margin: 0 auto !important;
+}
+.form-select:focus, .form-control:focus {
+    color: #ED1E24 !important;
+    box-shadow: 0 0 0 .25rem #e69fa2c7 !important;
+}
+input, select{
+    border-color: #ED1E24 !important;
+}
+
+.form_container{
+    height: max-content !important;
+    background: #fff;
+    padding: 80px 40px;
+    border-radius: 0.375rem;
+    border: 2px solid #ED1E24;
+    margin-top: 20px;
+}
+.small_text{
+    font-size: 12px;
+    color: #ED1E24;
+}
+.common_btn{
+    background: #ED1E24 !important;
+    padding: 10px 0 !important;
+}
+.last_text{
+    font-size: 15px;
+    color: #ED1E24;
+}

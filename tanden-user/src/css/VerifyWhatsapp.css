@@ -1,0 +1,15 @@
+.verify-whatsapp .card {
+    padding: 20px;
+    background-color: #ffe6e6;
+    height:"100vh";
+  }
+  
+  .verify-whatsapp .card-title {
+    color: #dc3545;
+  }
+  
+  .verify-whatsapp .btn {
+    font-size: 18px;
+    padding: 10px;
+  }
+  

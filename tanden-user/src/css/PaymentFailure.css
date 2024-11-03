@@ -1,0 +1,12 @@
+.payment-failure-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .failure-icon {
+    font-size: 4rem;
+    color: #dc3545;
+  }
+  
