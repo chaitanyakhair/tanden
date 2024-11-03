@@ -5,7 +5,7 @@ export const API_URL = 'http://localhost:5000';
 // export const API_URL = 'https://yoga-be.onrender.com';
 
 
-export const domain = 'https://app.tandenspine.io'
+export const domain = 'https://tanden.vercel.app'
 // export const domain = 'http://localhost:5173'
 
 const api = axios.create({
